@@ -1,4 +1,3 @@
-# Let's generate the README.md file content for the Zappos MERN project
 
 readme_content = """# 👟 Zappos E-commerce Website Clone  
 
